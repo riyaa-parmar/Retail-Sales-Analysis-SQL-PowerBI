@@ -1,0 +1,13 @@
+Region,OrderStatus,TotalOrders
+East,Cancelled,11
+East,Completed,92
+East,Returned,14
+North,Cancelled,12
+North,Completed,67
+North,Returned,8
+South,Cancelled,45
+South,Completed,117
+South,Returned,13
+West,Cancelled,11
+West,Completed,94
+West,Returned,16

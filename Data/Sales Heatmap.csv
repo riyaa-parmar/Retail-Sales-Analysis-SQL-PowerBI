@@ -1,0 +1,21 @@
+Region,Category,TotalSales
+East,Clothing,208665.00
+East,Electronics,1059196.00
+East,Furniture,1046410.00
+East,"Home Appliances",547002.00
+East,Sports,113455.00
+North,Clothing,162872.00
+North,Electronics,2304248.00
+North,Furniture,374643.00
+North,"Home Appliances",908772.00
+North,Sports,79542.00
+South,Clothing,297647.00
+South,Electronics,5313950.00
+South,Furniture,630909.00
+South,"Home Appliances",998289.00
+South,Sports,90274.00
+West,Clothing,176917.00
+West,Electronics,2562301.00
+West,Furniture,1303115.00
+West,"Home Appliances",2093060.00
+West,Sports,162968.00
